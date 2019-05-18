@@ -4,7 +4,7 @@
 const expect = require('chai').expect
 const sortString = require('../index')
 
-describe('#sort-string', () => {
+describe('#sortString()', () => {
   it('should sort a string alphanumerically', () => {
     const str = '321bca321'
     const result = sortString(str)
