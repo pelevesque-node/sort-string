@@ -28,6 +28,9 @@ Sorts a string alphanumerically.
 
 ```js
 const sortString = require('@pelevesque/sort-string')
+```
+
+```js
 const str = '321bca321'
 const sorted = sortString(str)
 // result sorted === '112233abc'
