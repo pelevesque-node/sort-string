@@ -1,7 +1,3 @@
 'use strict'
 
-module.exports = (str) => {
-  const arr = str.split('')
-  const sorted = arr.sort()
-  return sorted.join('')
-}
+module.exports = (str) => str.split('').sort().join('')
