@@ -8,7 +8,7 @@ Sorts a string alphanumerically.
 
 ## Node Repository
 
-[https://www.npmjs.com/package/@pelevesque/sort-string](https://www.npmjs.com/package/@pelevesque/sort-string)
+https://www.npmjs.com/package/@pelevesque/sort-string
 
 ## Installation
 
